@@ -43,7 +43,38 @@ I originally developed the tracker using [MATLAB Online](https://matlab.mathwork
 8. Draw a freehand region around the object you want to track.
 9. The tracker will begin processing the video and generating the selected outputs.
 
-Example:
 
-```matlab
-VideoFile = "MotionVid1.mp4";
+## Important Settings
+
+The top of the script contains settings for:
+
+Video rotation
+Slow-motion correction
+Frame skipping
+Smoothing
+Collision detection
+Plot selection
+Energy analysis
+Feature-point detection
+Motion filtering
+
+The default tracking settings have worked well across my test videos, so I would recommend changing them carefully.
+
+## Program Controls
+
+While tracking, the interface includes:
+
+Stop Early — ends tracking and keeps the collected results
+Reselect ROI — allows the object region to be redrawn
+Terminate — exits the program without continuing the analysis
+Research Application
+
+The tracker was used to analyze rigid-body impact experiments from high-speed video. It supported the calculation of linear and angular kinematics, energy changes, and coefficient of restitution across repeated trials.
+
+Raw research videos and complete experimental datasets are not included in this public repository.
+
+## Version
+
+Current public version: 6.2
+
+Last updated: August 29, 2026
