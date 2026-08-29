@@ -30,7 +30,7 @@ The tracker allows the user to:
   Tracked feature points, orientation, and trajectory during a basketball impact experiment.
 </p>
 
-### Position, Velocity, and Acceleration
+### Examples of Video Results
 
 The plots below show the measured position, velocity, and acceleration
 across multiple basketball impacts. The sharp acceleration changes
