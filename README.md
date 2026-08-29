@@ -21,7 +21,7 @@ The tracker allows the user to:
 
 ## Example Results
   <p align="center">
-  <img src="media/basketball_tracking_demo.jpeg"
+  <img src="media/basketball_kinematics.jpeg"
        alt="Basketball tracked using the MATLAB rigid-body tracker"
        width="450">
 </p>
