@@ -19,6 +19,17 @@ The tracker allows the user to:
 - Reselect the tracked object while the program is running
 - Export calculated data for further analysis
 
+## Example Results
+  <p align="center">
+  <img src="media/basketball_tracking_demo.jpeg"
+       alt="Basketball tracked using the MATLAB rigid-body tracker"
+       width="450">
+</p>
+
+<p align="center">
+  Tracked feature points, orientation, and trajectory during a basketball impact experiment.
+</p>
+
 ## Requirements
 
 - MATLAB
