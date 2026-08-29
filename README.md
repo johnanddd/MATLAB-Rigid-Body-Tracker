@@ -54,7 +54,7 @@ I originally developed the tracker using [MATLAB Online](https://matlab.mathwork
 
 ## How to Run
 
-1. Download `RigidBodyMotionTracker.m`.
+1. Download `RigidBodyMotionTracker_Public.m`.
 2. Place your video somewhere accessible to MATLAB.
 3. Enter the video filename or full file path in the `VideoFile` variable near the top of the script.
 4. Adjust `rotateAngle` if the video is displayed in the wrong orientation.
