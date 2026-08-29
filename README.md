@@ -30,6 +30,16 @@ The tracker allows the user to:
   Tracked feature points, orientation, and trajectory during a basketball impact experiment.
 </p>
 
+### Position, Velocity, and Acceleration
+
+The plots below show the measured position, velocity, and acceleration
+across multiple basketball impacts. The sharp acceleration changes
+correspond to contact with the ground.
+
+![Basketball kinematics results](media/basketball_kinematics_results.jpeg)
+
+Keep in mind the software also tracks jerk, orientation, angular velocity/acceleration, kinetic/rotational energy, and can automatically detect collisions too. 
+
 ## Requirements
 
 - MATLAB
